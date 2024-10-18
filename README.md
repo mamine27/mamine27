@@ -1,4 +1,4 @@
-# Hi there, I'm Mamine 👋
+# Hi there, I'm Mohammedamin 👋
 
 I'm a self-taught software developer passionate about coding and technology. Currently, I'm focusing on full-stack development and working on projects that challenge me to grow and improve. I'm always excited to learn new things and build functional and creative applications.
 
