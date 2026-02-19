@@ -6,11 +6,7 @@ I'm a self-taught software developer passionate about coding and technology. Cur
 - 🌱 I'm currently diving deep into **Full Stack Development**, building projects from scratch to sharpen my skills.
 - 🎯 My goal is to expand my expertise in both front-end and back-end technologies to create more complex applications.
 
-## 💻 Featured Project:
-### [Rock Paper Scissors Game](https://github.com/mamine27/rock-paper-scissors)
-My first functional website, built from scratch using:
-- **HTML, CSS, JavaScript** for the front-end.
-- Integrated **GIFs** for interactive visual feedback.
+
   
 Check it out and let me know what you think!
 
