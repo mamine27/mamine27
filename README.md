@@ -23,7 +23,7 @@ Check it out and let me know what you think!
 
 ## 📫 How to Reach Me:
 - **Email**: aminmamine620@gmail.com
-- **LinkedIn**: [Muhammed Amin Kheiru](https://linkedin.com/in/muhammedaminkheiru)
+- **LinkedIn**: [Muhammed Amin Kheiru](https://www.linkedin.com/in/mohammedaminkheiru/)
 - **Telegram**: [@mamine27](https://t.me/mamine27)
 
 ---
